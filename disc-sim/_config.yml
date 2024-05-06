@@ -34,6 +34,9 @@ plugins:
 
 include:
  - _pages
+ 
+source: .
+destination: ./_site
 
 # Exclude from processing.
 # The following items will not be processed, by default.
