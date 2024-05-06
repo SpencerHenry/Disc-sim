@@ -4,7 +4,7 @@ title: Disc-Sim Project Overview
 permalink: /
 ---
 
-# Welcome to the Disc-Sim Project! *05/24
+# Welcome to the Disc-Sim Project! 
 
 Disc-Sim is dedicated to advancing our understanding and technology in disc simulation for a variety of applications. Our project combines innovative algorithms with user-friendly interfaces to provide powerful simulation tools.
 
