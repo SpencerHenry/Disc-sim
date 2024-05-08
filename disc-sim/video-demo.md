@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Video Demonstration
-permalink: /video-demo/
+permalink: /video-demo
 ---
 
 # Video Demonstration
