@@ -34,6 +34,8 @@ plugins:
 
 include:
  - _pages
+ - _posts
+ - _site
 
 source: .
 destination: ./_site
