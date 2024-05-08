@@ -24,7 +24,8 @@ Here is a video demonstration of the Disc-Sim project:
 - **Mobile Compatibility**: Soon, Disc-Sim will be available on mobile devices, allowing users to run simulations directly from their smartphones.
 - **Expanded Database**: Continuously adding to our database of disc profiles, expanding the versatility and utility of Disc-Sim.
 
-![Disc Simulation Screenshot](/images/disc_sc.png)
+<img src="/images/disc_sc.png" alt="Descriptive Text" style="width: 50%; height: auto;">
+
 
 ## How to Get Involved
 
