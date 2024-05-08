@@ -15,7 +15,7 @@ Disc-Sim is dedicated to advancing our understanding and technology in disc simu
 
 ## See It in Action
 
-Watch a [Video Demonstration](/Disc-sim/disc-sim/video-demo/) of our tools to see how they can benefit you.
+Watch a [Video Demonstration](video-demo/) of our tools to see how they can benefit you.
 
 ## Upcoming Features
 
