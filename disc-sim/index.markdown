@@ -13,9 +13,11 @@ Disc-Sim is dedicated to advancing our understanding and technology in disc simu
 - **Enhanced Simulation Accuracy**: Our latest updates have greatly increased the accuracy of our simulations, making our tool more reliable for academic and commercial use.
 - **User Interface Overhaul**: We recently launched a new user interface, designed to make the simulation process more intuitive and accessible for all users.
 
-## See It in Action
+## Video Demonstration
 
-Watch a [Video Demonstration](video-demo/) of our tools to see how they can benefit you.
+Here is a video demonstration of the Disc-Sim project:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/[YourVideoID]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Upcoming Features
 
@@ -26,8 +28,7 @@ Watch a [Video Demonstration](video-demo/) of our tools to see how they can bene
 
 The Disc-Sim project thrives on community involvement. We encourage you to get involved by:
 
-- **Contributing**: Whether you're a developer, a researcher, or just an enthusiast, your contributions are welcome. Check out our [Contribution Guidelines](URL-to-contribution-guidelines).
-- **Providing Feedback**: Your feedback is crucial for our continuous improvement. Please share your thoughts and suggestions with us via [Our Contact Page](URL-to-contact-page).
+- **Providing Feedback**: Your feedback is crucial for our continuous improvement. Please share your thoughts and suggestions
 
 Thank you for visiting the Disc-Sim project. We hope you find our tools helpful and innovative!
 
