@@ -6,12 +6,12 @@ permalink: /
 
 # Welcome to the Disc-Sim Project! 
 
-Disc-Sim is dedicated to advancing our understanding and technology in disc simulation for a variety of applications. Our project combines innovative algorithms with user-friendly interfaces to provide powerful simulation tools.
+Disc-Sim is dedicated to advancing our understanding and technology in disc simulation for a variety of applications. The project combines innovative algorithms with user-friendly interfaces to provide powerful simulation tools.
 
 ## Recent Progress
 
-- **Enhanced Simulation Accuracy**: Our latest updates have greatly increased the accuracy of our simulations, making our tool more reliable for academic and commercial use.
-- **User Interface Overhaul**: We recently launched a new user interface, designed to make the simulation process more intuitive and accessible for all users.
+- **Enhanced Simulation Accuracy**: The latest updates have greatly increased the accuracy of our simulations, making our tool more reliable for academic and commercial use.
+- **User Interface Overhaul**: Recently launched a new user interface, designed to make the simulation process more intuitive and accessible for all users.
 
 ## Video Demonstration
 
@@ -22,7 +22,9 @@ Here is a video demonstration of the Disc-Sim project:
 ## Upcoming Features
 
 - **Mobile Compatibility**: Soon, Disc-Sim will be available on mobile devices, allowing users to run simulations directly from their smartphones.
-- **Expanded Database**: We are continuously adding to our database of disc profiles, expanding the versatility and utility of Disc-Sim.
+- **Expanded Database**: Continuously adding to our database of disc profiles, expanding the versatility and utility of Disc-Sim.
+
+![Disc Simulation Screenshot](/images/disc_sc.png)
 
 ## How to Get Involved
 
