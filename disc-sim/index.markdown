@@ -2,7 +2,6 @@
 layout: default
 title: Disc-Sim Project Overview
 permalink: /
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 ---
 
 # Welcome to the Disc-Sim Project! 
