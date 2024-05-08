@@ -29,9 +29,12 @@ github_username:  Spencer Henry
 
 # Build settings
 theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
 plugins:
   - jekyll-feed
-
+permalink: pretty
 include:
  - _pages
  - _posts
