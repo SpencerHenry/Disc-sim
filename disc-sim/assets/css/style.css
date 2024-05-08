@@ -1,0 +1,4 @@
+.custom-img {
+  width: 50%;  /* Adjusts the width to 50% of its container */
+  height: auto; /* Maintains the image's aspect ratio */
+}
