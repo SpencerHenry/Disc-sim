@@ -13,6 +13,10 @@ Disc-Sim is dedicated to advancing our understanding and technology in disc simu
 - **Enhanced Simulation Accuracy**: Our latest updates have greatly increased the accuracy of our simulations, making our tool more reliable for academic and commercial use.
 - **User Interface Overhaul**: We recently launched a new user interface, designed to make the simulation process more intuitive and accessible for all users.
 
+## See It in Action
+
+Watch a [Video Demonstration](/Disc-sim/disc-sim/video-demo/) of our tools to see how they can benefit you.
+
 ## Upcoming Features
 
 - **Mobile Compatibility**: Soon, Disc-Sim will be available on mobile devices, allowing users to run simulations directly from their smartphones.
