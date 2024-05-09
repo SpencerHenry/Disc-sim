@@ -17,10 +17,14 @@ Disc-Sim is dedicated to advancing our understanding and technology in disc simu
 
 Here is a video demonstration of the Disc-Sim project:
 
+<!-- Ensure the following HTML is rendered correctly -->
+<div style="color: red;">If you see this text in red, HTML is working in your markdown file.</div>
+
 <video width="560" height="315" controls>
   <source src="/video/discSim_one.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 ## Upcoming Features
 
