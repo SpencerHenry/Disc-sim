@@ -17,7 +17,10 @@ Disc-Sim is dedicated to advancing our understanding and technology in disc simu
 
 Here is a video demonstration of the Disc-Sim project:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/[YourVideoID]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="560" height="315" controls>
+  <source src="/video/discSim_one.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Upcoming Features
 
