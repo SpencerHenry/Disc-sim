@@ -17,7 +17,7 @@ Disc-Sim is dedicated to advancing our understanding and technology in disc simu
 
 Here is a video demonstration of the Disc-Sim project:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TLUYuq-Tgt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tG7aw8LBUus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -36,5 +36,11 @@ The Disc-Sim project thrives on community involvement. We encourage you to get i
 
 - **Providing Feedback**: Your feedback is crucial for our continuous improvement. Please share your thoughts and suggestions
 
+spencer.henry182@myci.csuci.edu
+
 Thank you for visiting the Disc-Sim project. We hope you find our tools helpful and innovative!
+
+## Acknowledgements
+
+I would like to thank Dr. Vida Vakilian for her support of the Project. 
 
