@@ -20,14 +20,10 @@ Here is a video demonstration of the Disc-Sim project:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tG7aw8LBUus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 ## Upcoming Features
 
 - **Mobile Compatibility**: Soon, Disc-Sim will be available on mobile devices, allowing users to run simulations directly from their smartphones.
 - **Expanded Database**: Continuously adding to our database of disc profiles, expanding the versatility and utility of Disc-Sim.
-
-<img src="/images/disc_sc.png" alt="Descriptive Text" class="custom-img">
-
 
 
 ## How to Get Involved
@@ -42,5 +38,4 @@ Thank you for visiting the Disc-Sim project. We hope you find our tools helpful 
 
 ## Acknowledgements
 
-I would like to thank Dr. Vida Vakilian for her support of the Project. 
-
+I would like to give a special thanks to Dr. Vida Vakilian for her support of the Project. 
